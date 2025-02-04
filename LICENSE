@@ -1,0 +1,53 @@
+Angelito Systems - Sistema CRM para WhatsApp (Backend y Frontend)
+Copyright (C) 2024 Angelito Systems
+
+Este programa es software libre: puedes redistribuirlo y/o modificarlo
+bajo los términos de la Licencia Pública General Affero de GNU (AGPL) 
+tal como la publica la Free Software Foundation, ya sea la versión 3
+de la Licencia, o (a tu elección) cualquier versión posterior.
+
+Este programa se distribuye con la esperanza de que sea útil,
+pero SIN NINGUNA GARANTÍA; sin siquiera la garantía implícita de
+COMERCIALIZACIÓN o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulta
+la Licencia Pública General Affero de GNU para más detalles.
+
+Deberías haber recibido una copia de la Licencia Pública General Affero de GNU
+junto con este programa. Si no es así, visita <https://www.gnu.org/licenses/>.
+
+---
+
+Condiciones adicionales:
+
+1. Uso Comercial:
+   - Este software no puede ser utilizado con fines comerciales (incluyendo, 
+     pero no limitado a, la venta del software, su uso en servicios SaaS, 
+     o cualquier otro modelo de negocio que genere ingresos) sin el 
+     consentimiento expreso por escrito de Angelito Systems.
+   - Si deseas utilizar este software con fines comerciales, contacta a 
+     Angelito Systems en support@angelitosystems.com para 
+     obtener una licencia comercial.
+
+2. Atribución:
+   - Cualquier uso, modificación o distribución de este software debe incluir 
+     un reconocimiento explícito a Angelito Systems como autor original, con 
+     un enlace al repositorio oficial del proyecto en GitHub:
+     https://github.com/Angelito-Systems/CRM-WHATSAPP-BACKEND
+     https://github.com/Angelito-Systems/CRM-WHATSAPP-FRONTEND.
+
+3. Compartir modificaciones:
+   - Si modificas este software y lo distribuyes (incluso como servicio en la 
+     nube), debes compartir tus modificaciones bajo la misma licencia AGPL y 
+     proporcionar acceso al código fuente completo de tus modificaciones.
+
+---
+
+Para más información sobre la Licencia AGPL, visita: 
+https://www.gnu.org/licenses/agpl-3.0.html
+
+Para solicitar una licencia comercial, contacta a Angelito Systems en: 
+[tu correo electrónico o enlace de contacto].
+
+---
+
+Angelito Systems se reserva todos los derechos no expresamente otorgados 
+en esta licencia.
